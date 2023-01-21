@@ -1,0 +1,5 @@
+@font-face {
+  font-family: 'TrimPoster';
+  src: local('TrimPoster'), url('./TrimPoster-Hefty.woff2') format('woff2');
+  font-weight: 800;
+}

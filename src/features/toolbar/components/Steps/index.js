@@ -1,0 +1,5 @@
+export { Colors } from './Colors'
+export { Devices } from './Devices'
+export { Freehand } from './Freehand'
+export { Methods } from './Methods'
+export { Patterns } from './Patterns'
